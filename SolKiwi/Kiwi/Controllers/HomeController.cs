@@ -15,6 +15,7 @@ namespace Kiwi.Controllers
 
 		public HomeController(ILogger<HomeController> logger)
 		{
+			// us this part to add log in the system
 			_logger = logger;
 		}
 
